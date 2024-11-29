@@ -1,8 +1,5 @@
 # Pricing
 
-!!! info
-    Dixer is in the process of being maintained by [Ofimatic](https://ofimatic.com)
-
 Dixer can be used without restrictions for users, but execution has a delay of 30 seconds before initialize workflow. To avoid this delay consider to buy depending the edition you need.
 
 For companies, consider to buy a license, please contact us to [`support@stgo.do`](mailto:support@stgo.do).
